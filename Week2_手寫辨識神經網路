@@ -1,1 +1,29 @@
 https://colab.research.google.com/drive/1f9GIkpmk-v20wk7C4ElqGRNg4IrD9ol6?usp=sharing
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyP1FZ3uj2isaXUfEBpn0Qv5",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/greg3511/generative_ai/blob/main/gai_hw_01.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/drive/1f9GIkpmk-v20wk7C4ElqGRNg4IrD9ol6?usp=sharing\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
